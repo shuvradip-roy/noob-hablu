@@ -1,4 +1,4 @@
-![I am noob-hublu](https://github.com/noob-hublu/noob-hublu/blob/main/code.png)
+![I am noob-hublu](https://github.com/shuvradip-roy/noob-hablu/blob/main/code.png)
 
 <h1 align="center">Hi 👋, I'm Shuvradip </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator | Speed Learner</h3>
